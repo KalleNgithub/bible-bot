@@ -45,6 +45,6 @@
 
 ## 8. Deployment and docs
 
-- [ ] 8.1 Add Dockerfile, then publish the image to public GHCR, then extend the Terraform with a Container Apps environment and a Container App (min replicas 0, key from a secret); verify `terraform plan` is clean and, after the user applies, the deployed URL answers `curl "<url>/?q=John%2011:25"`
+- [x] 8.1 Add Dockerfile, then publish the image to public GHCR, then extend the Terraform with a Container Apps environment and a Container App (min replicas 0, key from a secret); verify `terraform plan` is clean and, after the user applies, the deployed URL answers `curl "<url>/?q=John%2011:25"`
 - [x] 8.2 Write README with usage examples, data licensing note (WEB and 1933/38 public domain), cost estimate and the archaic-Finnish caveat; verify README commands run as written
 - [ ] 8.3 End-to-end check of "my mom died and I require consolation" in Finnish and English; verify varied, complete verses are returned
