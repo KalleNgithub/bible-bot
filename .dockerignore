@@ -1,0 +1,8 @@
+infra
+openspec
+eval
+.github
+.terraform
+*.tfstate*
+plan.txt
+Makefile

@@ -1,0 +1,280 @@
+Threshold 0.52, T 0.03. P is the chance the bot returns that verse.
+
+## my mom died and I require consolation
+english: my mom died and I require consolation
+description: The Bible offers comfort in times of grief, assuring you that God is near and will sustain you through sorrow. It also promises hope for the future, that death is not the end and that believers will be raised.
+=> no suitable verse found
+(best was 0.519)
+
+## I am afraid
+english: I am afraid
+description: God says, “Do not be afraid,” and reminds you that His presence is with you even in fear. He offers comfort and peace through faith.
+- 0.661 P=37%  Psalms 56:3: When I am afraid, I will put my trust in you.
+- 0.629 P=13%  Isaiah 35:4-7: Tell those who have a fearful heart, “Be strong. Don’t be afraid. Behold, your God will come with vengeance, God’s retribution. He will come and save you. Then the eyes of the blind will be opened, and the ears of the deaf will be unstopped. Then the lame man will leap like a deer, and the tongue of the mute will sing; for waters will break out in the wilderness, and streams in the desert. The burning sand will become a pool, and the thirsty ground springs of water. Grass with reeds and rushes will be in the habitation of jackals, where they lay.
+- 0.626 P=11%  Isaiah 41:10: Don’t you be afraid, for I am with you. Don’t be dismayed, for I am your God. I will strengthen you. Yes, I will help you. Yes, I will uphold you with the right hand of my righteousness.
+- 0.620 P= 9%  Psalms 56:4: In God, I praise his word. In God, I put my trust. I will not be afraid. What can flesh do to me?
+- 0.613 P= 7%  Deuteronomy 31:6: Be strong and courageous. Don’t be afraid or scared of them; for Yahweh your God himself is who goes with you. He will not fail you nor forsake you.”
+
+## forgive me, I did something terrible
+english: forgive me, I did something terrible
+description: God offers forgiveness when you repent and turn back to Him. You can ask for mercy, and He will cleanse you and help you make things right.
+- 0.618 P=41%  Psalms 51:1: Have mercy on me, God, according to your loving kindness. According to the multitude of your tender mercies, blot out my transgressions.
+- 0.582 P=13%  Isaiah 55:6-7: Seek Yahweh while he may be found; call you on him while he is near: let the wicked forsake his way, and the unrighteous man his thoughts; and let him return to Yahweh, and he will have mercy on him; and to our God, for he will abundantly pardon.
+- 0.573 P= 9%  Acts 8:22: Repent therefore of this, your wickedness, and ask God if perhaps the thought of your heart may be forgiven you.
+- 0.571 P= 9%  Numbers 15:28: The priest shall make atonement for the soul who errs, when he sins unwittingly before Yahweh, to make atonement for him; and he shall be forgiven.
+- 0.571 P= 9%  Daniel 9:9-10: To the Lord our God belong mercies and forgiveness; for we have rebelled against him; neither have we obeyed the voice of Yahweh our God, to walk in his laws, which he set before us by his servants the prophets.
+
+## how to love other people
+english: how to love other people
+description: The Bible teaches that we should love others as ourselves and that love is patient, kind, and not self-seeking. It also calls believers to show love through actions—serving, forgiving, and speaking truth with grace.
+- 0.562 P=40%  1 John 4:11: Beloved, if God loved us in this way, we also ought to love one another.
+- 0.531 P=14%  1 John 4:7: Beloved, let us love one another, for love is of God; and everyone who loves has been born of God, and knows God.
+- 0.529 P=13%  Mark 12:32-33: The scribe said to him, “Truly, teacher, you have said well that he is one, and there is none other but he, and to love him with all the heart, and with all the understanding, with all the soul, and with all the strength, and to love his neighbor as himself, is more important than all whole burnt offerings and sacrifices.”
+- 0.525 P=12%  Romans 13:8: Owe no one anything, except to love one another; for he who loves his neighbor has fulfilled the law.
+- 0.521 P=10%  Ephesians 4:32: And be kind to one another, tender hearted, forgiving each other, just as God also in Christ forgave you.
+
+## I feel so alone
+english: I feel so alone
+description: You are not forgotten, and God is present with you even when you feel alone. Seek comfort in Scripture and reach out to others, because you are part of a caring community.
+- 0.572 P=73%  John 16:32: Behold, the time is coming, yes, and has now come, that you will be scattered, everyone to his own place, and you will leave me alone. Yet I am not alone, because the Father is with me.
+- 0.522 P=14%  Isaiah 49:21: Then you will say in your heart, ‘Who has conceived these for me, since I have been bereaved of my children, and am solitary, an exile, and wandering back and forth? Who has brought up these? Behold, I was left alone; these, where were they?’”
+- 0.521 P=13%  2 Corinthians 1:7: Our hope for you is steadfast, knowing that, since you are partakers of the sufferings, so also are you of the comfort.
+- 0.510 P= 0%  John 14:18: I will not leave you orphans. I will come to you.
+- 0.509 P= 0%  Isaiah 41:10: Don’t you be afraid, for I am with you. Don’t be dismayed, for I am your God. I will strengthen you. Yes, I will help you. Yes, I will uphold you with the right hand of my righteousness.
+
+## what happens to people who believe in jesus
+english: what happens to people who believe in jesus
+description: The Bible teaches that people who believe in Jesus receive eternal life and are made right with God through Him. They can also have assurance of salvation and receive the gift of the Holy Spirit.
+- 0.577 P=100%  John 3:14-15: As Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up, that whoever believes in him should not perish, but have eternal life.
+- 0.509 P= 0%  Ephesians 1:11-14: in whom also we were assigned an inheritance, having been foreordained according to the purpose of him who works all things after the counsel of his will; to the end that we should be to the praise of his glory, we who had before hoped in Christ: in whom you also, having heard the word of the truth, the Good News of your salvation—in whom, having also believed, you were sealed with the Holy Spirit of promise, who is a pledge of our inheritance, to the redemption of God’s own possession, to the praise of his glory.
+- 0.507 P= 0%  Acts 13:48: As the Gentiles heard this, they were glad, and glorified the word of God. As many as were appointed to eternal life believed.
+- 0.505 P= 0%  John 11:25-26: Jesus said to her, “I am the resurrection and the life. He who believes in me will still live, even if he dies. Whoever lives and believes in me will never die. Do you believe this?”
+- 0.505 P= 0%  John 6:47: Most certainly, I tell you, he who believes in me has eternal life.
+
+## I am worried about money
+english: I am worried about money
+description: God cares for your needs and invites you not to be anxious, seeking His kingdom first. Trust Him to provide and remember that your life is more than money.
+- 0.563 P=35%  1 Timothy 6:17-19: Charge those who are rich in this present world that they not be haughty, nor have their hope set on the uncertainty of riches, but on the living God, who richly provides us with everything to enjoy; that they do good, that they be rich in good works, that they be ready to distribute, willing to communicate; laying up in store for themselves a good foundation against the time to come, that they may lay hold of eternal life.
+- 0.559 P=31%  Philippians 4:6: In nothing be anxious, but in everything, by prayer and petition with thanksgiving, let your requests be made known to God.
+- 0.541 P=17%  Matthew 6:25: Therefore I tell you, don’t be anxious for your life: what you will eat, or what you will drink; nor yet for your body, what you will wear. Isn’t life more than food, and the body more than clothing?
+- 0.520 P= 8%  Philippians 4:19: My God will supply every need of yours according to his riches in glory in Christ Jesus.
+- 0.520 P= 8%  Psalms 40:17: But I am poor and needy. May the Lord think about me. You are my help and my deliverer. Don’t delay, my God.
+
+## I need strength to keep going
+english: I need strength to keep going
+description: A Bible passage like Isaiah 40:29-31 says God gives strength to the weary and those who wait on Him renew their strength. It encourages you not to lose heart, because God helps you keep going.
+- 0.607 P=36%  Isaiah 40:31: But those who wait for Yahweh will renew their strength. They will mount up with wings like eagles. They will run, and not be weary. They will walk, and not faint.
+- 0.576 P=13%  Psalms 119:28: My soul is weary with sorrow: strengthen me according to your word.
+- 0.562 P= 8%  Psalms 18:31-32: For who is God, except Yahweh? Who is a rock, besides our God, the God who arms me with strength, and makes my way perfect?
+- 0.560 P= 7%  Psalms 42:11: Why are you in despair, my soul? Why are you disturbed within me? Hope in God! For I shall still praise him, the saving help of my countenance, and my God.
+- 0.557 P= 7%  Psalms 27:14: Wait for Yahweh. Be strong, and let your heart take courage. Yes, wait for Yahweh.
+
+## give thanks for a good day
+english: give thanks for a good day
+description: A Bible passage would encourage thanking God for His goodness and recognizing that every good day comes from Him. It might say to give thanks and rejoice in the Lord always.
+- 0.625 P=23%  Ephesians 5:18-21: Don’t be drunken with wine, in which is dissipation, but be filled with the Spirit, speaking to one another in psalms, hymns, and spiritual songs; singing, and making melody in your heart to the Lord; giving thanks always concerning all things in the name of our Lord Jesus Christ, to God, even the Father; subjecting yourselves one to another in the fear of Christ.
+- 0.613 P=15%  1 Thessalonians 5:18: In everything give thanks, for this is the will of God in Christ Jesus toward you.
+- 0.605 P=12%  Psalms 136:26: Oh give thanks to the God of heaven; for his loving kindness endures forever.
+- 0.599 P= 9%  Psalms 136:2: Give thanks to the God of gods; for his loving kindness endures forever.
+- 0.593 P= 8%  Psalms 107:1: Give thanks to Yahweh, for he is good, for his loving kindness endures forever.
+
+## how should I treat my enemies
+english: how should I treat my enemies
+description: The Bible teaches to love your enemies and pray for those who persecute you, treating them with kindness rather than retaliation. It also urges you to overcome evil with good and leave justice to God.
+- 0.714 P=91%  Matthew 5:44-45: But I tell you, love your enemies, bless those who curse you, do good to those who hate you, and pray for those who mistreat you and persecute you, that you may be children of your Father who is in heaven. For he makes his sun to rise on the evil and the good, and sends rain on the just and the unjust.
+- 0.613 P= 3%  Luke 6:35: But love your enemies, and do good, and lend, expecting nothing back; and your reward will be great, and you will be children of the Most High; for he is kind toward the unthankful and evil.
+- 0.597 P= 2%  Luke 6:27-30: “But I tell you who hear: love your enemies, do good to those who hate you, bless those who curse you, and pray for those who mistreat you. To him who strikes you on the cheek, offer also the other; and from him who takes away your cloak, don’t withhold your coat also. Give to everyone who asks you, and don’t ask him who takes away your goods to give them back again.
+- 0.585 P= 1%  Romans 12:14: Bless those who persecute you; bless, and don’t curse.
+- 0.583 P= 1%  Luke 6:27-30: “But I tell you who hear: love your enemies, do good to those who hate you, bless those who curse you, and pray for those who mistreat you. To him who strikes you on the cheek, offer also the other; and from him who takes away your cloak, don’t withhold your coat also. Give to everyone who asks you, and don’t ask him who takes away your goods to give them back again.
+
+## where is God when I suffer
+english: where is God when I suffer
+description: Look for God in your suffering—He is near to the brokenhearted and hears your cries. Even when you don’t understand, He is present, comforting you and working for good.
+- 0.621 P=50%  Job 27:9: Will God hear his cry when trouble comes on him?
+- 0.597 P=22%  Psalms 22:1: My God, my God, why have you forsaken me? Why are you so far from helping me, and from the words of my groaning?
+- 0.569 P= 9%  Psalms 34:18: Yahweh is near to those who have a broken heart, and saves those who have a crushed spirit.
+- 0.547 P= 4%  Psalms 42:5: Why are you in despair, my soul? Why are you disturbed within me? Hope in God! For I shall still praise him for the saving help of his presence.
+- 0.544 P= 4%  Psalms 77:1: My cry goes to God! Indeed, I cry to God for help, and for him to listen to me.
+
+## what is wisdom
+english: what is wisdom
+description: The Bible describes wisdom as God-given understanding that helps a person live rightly, choosing what is good and avoiding evil. It encourages seeking God’s wisdom through prayer and guidance, not merely human knowledge.
+- 0.573 P=27%  Job 28:20: Where then does wisdom come from? Where is the place of understanding?
+- 0.558 P=16%  Proverbs 4:7: Wisdom is supreme. Get wisdom. Yes, though it costs all your possessions, get understanding.
+- 0.550 P=12%  Proverbs 16:16: How much better it is to get wisdom than gold! Yes, to get understanding is to be chosen rather than silver.
+- 0.545 P=11%  Proverbs 1:1-4: The proverbs of Solomon, the son of David, king of Israel: to know wisdom and instruction; to discern the words of understanding; to receive instruction in wise dealing, in righteousness, justice, and equity; to give prudence to the simple, knowledge and discretion to the young man:
+- 0.543 P=10%  Ecclesiastes 7:12: For wisdom is a defense, even as money is a defense; but the excellency of knowledge is that wisdom preserves the life of him who has it.
+
+## can I trust God
+english: can I trust God
+description: Trust in God’s faithfulness and promises, even when you cannot see the outcome. If you put your hope in Him and lean on His wisdom, He will guide and sustain you.
+- 0.617 P=49%  Psalms 56:11: I have put my trust in God. I will not be afraid. What can man do to me?
+- 0.577 P=13%  Psalms 56:4: In God, I praise his word. In God, I put my trust. I will not be afraid. What can flesh do to me?
+- 0.565 P= 9%  Psalms 62:8: Trust in him at all times, you people. Pour out your heart before him. God is a refuge for us. Selah.
+- 0.560 P= 7%  Psalms 56:3: When I am afraid, I will put my trust in you.
+- 0.550 P= 5%  Romans 4:20-21: Yet, looking to the promise of God, he didn’t waver through unbelief, but grew strong through faith, giving glory to God, and being fully assured that what he had promised, he was also able to perform.
+
+## hope for the future
+english: hope for the future
+description: A Bible passage would remind you that God’s plans are meant to give hope and a future. It encourages you to trust God, even when circumstances feel uncertain, because His promises endure.
+- 0.608 P=22%  Romans 15:13: Now may the God of hope fill you with all joy and peace in believing, that you may abound in hope, in the power of the Holy Spirit.
+- 0.597 P=15%  Jeremiah 29:11: For I know the thoughts that I think toward you, says Yahweh, thoughts of peace, and not of evil, to give you hope and a future.
+- 0.594 P=14%  Colossians 1:3-6: We give thanks to God the Father of our Lord Jesus Christ, praying always for you, having heard of your faith in Christ Jesus, and of the love which you have toward all the saints, because of the hope which is laid up for you in the heavens, of which you heard before in the word of the truth of the Good News, which has come to you; even as it is in all the world and is bearing fruit and growing, as it does in you also, since the day you heard and knew the grace of God in truth;
+- 0.594 P=14%  Proverbs 23:18: Indeed surely there is a future hope, and your hope will not be cut off.
+- 0.581 P= 9%  Titus 1:1-4: Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God’s chosen ones, and the knowledge of the truth which is according to godliness, in hope of eternal life, which God, who can’t lie, promised before time began; but in his own time revealed his word in the message with which I was entrusted according to the commandment of God our Savior; to Titus, my true child according to a common faith: Grace, mercy, and peace from God the Father and the Lord Jesus Christ our Savior.
+
+## I am angry all the time
+english: I am angry all the time
+description: The Bible teaches that believers should manage anger by slowing down, seeking peace, and not letting anger lead to harmful actions. It encourages turning to God for help and choosing what builds others up instead of fueling resentment.
+- 0.558 P=57%  Ephesians 4:26-27: “Be angry, and don’t sin.” Don’t let the sun go down on your wrath, neither give place to the devil.
+- 0.536 P=27%  Proverbs 15:1: A gentle answer turns away wrath, but a harsh word stirs up anger.
+- 0.521 P=17%  Jonah 4:9: God said to Jonah, “Is it right for you to be angry about the vine?”   He said, “I am right to be angry, even to death.”
+- 0.519 P= 0%  Jonah 4:4: Yahweh said, “Is it right for you to be angry?”
+- 0.486 P= 0%  Proverbs 15:18: A wrathful man stirs up contention, but one who is slow to anger appeases strife.
+
+## how to pray
+english: how to pray
+description: The Bible encourages believers to pray sincerely and persistently, with faith, and to bring their needs to God. It also teaches to pray in line with God’s will and to seek guidance through the example of Jesus’ prayers.
+- 0.555 P=100%  Ephesians 6:17-20: And take the helmet of salvation, and the sword of the Spirit, which is the word of God; with all prayer and requests, praying at all times in the Spirit, and being watchful to this end in all perseverance and requests for all the saints: on my behalf, that utterance may be given to me in opening my mouth, to make known with boldness the mystery of the Good News, for which I am an ambassador in chains; that in it I may speak boldly, as I ought to speak.
+- 0.506 P= 0%  James 5:16: Confess your offenses to one another, and pray for one another, that you may be healed. The insistent prayer of a righteous person is powerfully effective.
+- 0.504 P= 0%  Romans 12:10-13: In love of the brothers be tenderly affectionate one to another; in honor preferring one another; not lagging in diligence; fervent in spirit; serving the Lord; rejoicing in hope; enduring in troubles; continuing steadfastly in prayer; contributing to the needs of the saints; given to hospitality.
+- 0.501 P= 0%  1 Corinthians 14:15: What is it then? I will pray with the spirit, and I will pray with the understanding also. I will sing with the spirit, and I will sing with the understanding also.
+- 0.500 P= 0%  1 Samuel 12:23: Moreover as for me, far be it from me that I should sin against Yahweh in ceasing to pray for you: but I will instruct you in the good and the right way.
+
+## what is faith
+english: what is faith
+description: A Bible passage would explain that faith is trusting God and believing in Him, even when you cannot see the outcome. It encourages believers to rely on God’s promises and live in confidence.
+- 0.573 P=53%  Romans 1:17: For in it is revealed God’s righteousness from faith to faith. As it is written, “But the righteous shall live by faith.”
+- 0.559 P=33%  Hebrews 11:1: Now faith is assurance of things hoped for, proof of things not seen.
+- 0.532 P=14%  Hebrews 11:6: Without faith it is impossible to be well pleasing to him, for he who comes to God must believe that he exists, and that he is a rewarder of those who seek him.
+- 0.515 P= 0%  Romans 3:3: For what if some were without faith? Will their lack of faith nullify the faithfulness of God?
+- 0.508 P= 0%  Romans 14:22: Do you have faith? Have it to yourself before God. Happy is he who doesn’t judge himself in that which he approves.
+
+## my child is sick
+english: my child is sick
+description: The passage reassures that God hears and cares for the sick and offers healing and comfort. It encourages prayer and trust in God’s compassion during difficult times.
+- 0.538 P=100%  2 Corinthians 1:3-4: Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort; who comforts us in all our affliction, that we may be able to comfort those who are in any affliction, through the comfort with which we ourselves are comforted by God.
+- 0.517 P= 0%  Isaiah 53:4: Surely he has borne our sickness, and carried our suffering; yet we considered him plagued, struck by God, and afflicted.
+- 0.514 P= 0%  James 5:14-15: Is any among you sick? Let him call for the elders of the assembly, and let them pray over him, anointing him with oil in the name of the Lord, and the prayer of faith will heal him who is sick, and the Lord will raise him up. If he has committed sins, he will be forgiven.
+- 0.507 P= 0%  Matthew 8:16-17: When evening came, they brought to him many possessed with demons. He cast out the spirits with a word, and healed all who were sick; that it might be fulfilled which was spoken through Isaiah the prophet, saying: “He took our infirmities, and bore our diseases.”
+- 0.501 P= 0%  Psalms 41:3: Yahweh will sustain him on his sickbed, and restore him from his bed of illness.
+
+## death is not the end
+english: death is not the end
+description: A passage like 1 Corinthians 15:55–57 reassures that death has been defeated through Jesus Christ. It comforts believers with the promise of victory and hope beyond death.
+- 0.590 P=33%  Romans 6:8-9: But if we died with Christ, we believe that we will also live with him; knowing that Christ, being raised from the dead, dies no more. Death no more has dominion over him!
+- 0.582 P=26%  Romans 14:9: For to this end Christ died, rose, and lived again, that he might be Lord of both the dead and the living.
+- 0.545 P= 7%  Romans 5:20-21: The law came in besides, that the trespass might abound; but where sin abounded, grace abounded more exceedingly; that as sin reigned in death, even so grace might reign through righteousness to eternal life through Jesus Christ our Lord.
+- 0.544 P= 7%  2 Timothy 1:8-10: Therefore don’t be ashamed of the testimony of our Lord, nor of me his prisoner; but endure hardship for the Good News according to the power of God, who saved us and called us with a holy calling, not according to our works, but according to his own purpose and grace, which was given to us in Christ Jesus before times eternal, but has now been revealed by the appearing of our Savior, Christ Jesus, who abolished death, and brought life and immortality to light through the Good News.
+- 0.541 P= 7%  1 Thessalonians 4:14: For if we believe that Jesus died and rose again, even so God will bring with him those who have fallen asleep in Jesus.
+
+## The Lord is my shepherd, I shall not want
+english: The Lord is my shepherd, I shall not want
+description: “The LORD is my shepherd; I shall not want.” God provides for your needs, guides you, and gives you rest and security in His care.
+- 0.743 P=97%  Psalms 23:1: Yahweh is my shepherd: I shall lack nothing.
+- 0.594 P= 1%  Psalms 54:4: Behold, God is my helper. The Lord is the one who sustains my soul.
+- 0.590 P= 1%  Ezekiel 34:15: I myself will be the shepherd of my sheep, and I will cause them to lie down, says the Lord Yahweh.
+- 0.580 P= 0%  John 10:11: I am the good shepherd.The good shepherd lays down his life for the sheep.
+- 0.571 P= 0%  Jeremiah 23:4: I will set up shepherds over them, who shall feed them; and they shall fear no more, nor be dismayed, neither shall any be lacking, says Yahweh.
+
+## for God so loved the world that he gave his only son
+english: for God so loved the world that he gave his only son
+description: A Bible passage would say that God’s great love for the world led Him to give His only Son, offering salvation to believers. It comforts the reader that love and grace are the foundation of God’s action.
+- 0.752 P=96%  John 3:16: For God so loved the world, that he gave his one and only Son, that whoever believes in him should not perish, but have eternal life.
+- 0.624 P= 1%  Romans 8:32: He who didn’t spare his own Son, but delivered him up for us all, how would he not also with him freely give us all things?
+- 0.615 P= 1%  1 John 4:9: By this God’s love was revealed in us, that God has sent his one and only Son into the world that we might live through him.
+- 0.614 P= 1%  1 John 4:10: In this is love, not that we loved God, but that he loved us, and sent his Son as the atoning sacrifice for our sins.
+- 0.581 P= 0%  Hebrews 2:10: For it became him, for whom are all things, and through whom are all things, in bringing many children to glory, to make the author of their salvation perfect through sufferings.
+
+## love is patient and is kind
+english: love is patient and is kind
+description: “Love is patient, love is kind.” It reminds you that true love shows itself through patience and kindness toward others.
+- 0.746 P=100%  1 Corinthians 13:4-7: Love is patient and is kind; love doesn’t envy. Love doesn’t brag, is not proud, doesn’t behave itself inappropriately, doesn’t seek its own way, is not provoked, takes no account of evil; doesn’t rejoice in unrighteousness, but rejoices with the truth; bears all things, believes all things, hopes all things, endures all things.
+- 0.512 P= 0%  2 Corinthians 6:4-7: but in everything commending ourselves, as servants of God, in great endurance, in afflictions, in hardships, in distresses, in beatings, in imprisonments, in riots, in labors, in watchings, in fastings; in pureness, in knowledge, in patience, in kindness, in the Holy Spirit, in sincere love, in the word of truth, in the power of God; by the armor of righteousness on the right hand and on the left,
+- 0.499 P= 0%  Ephesians 4:1-3: I therefore, the prisoner in the Lord, beg you to walk worthily of the calling with which you were called, with all lowliness and humility, with patience, bearing with one another in love; being eager to keep the unity of the Spirit in the bond of peace.
+- 0.496 P= 0%  Romans 13:10: Love doesn’t harm a neighbor. Love therefore is the fulfillment of the law.
+- 0.467 P= 0%  2 Peter 1:5-7: Yes, and for this very cause adding on your part all diligence, in your faith supply moral excellence; and in moral excellence, knowledge; and in knowledge, self-control; and in self-control patience; and in patience godliness; and in godliness brotherly affection; and in brotherly affection, love.
+
+## In the beginning God created the heavens and the earth
+english: In the beginning God created the heavens and the earth
+description: A Bible passage would say that God is the creator of all things—he established the heavens and the earth from the very beginning, showing His power and purpose. It can be comforting to remember that creation began by God’s will, not chaos.
+- 0.782 P=98%  Genesis 1:1: In the beginning, God created the heavens and the earth.
+- 0.627 P= 1%  Colossians 1:16: For by him all things were created, in the heavens and on the earth, things visible and things invisible, whether thrones or dominions or principalities or powers; all things have been created through him, and for him.
+- 0.623 P= 0%  Hebrews 1:10-12: And,  “You, Lord, in the beginning, laid the foundation of the earth. The heavens are the works of your hands. They will perish, but you continue. They all will grow old like a garment does. You will roll them up like a mantle, and they will be changed; but you are the same. Your years will not fail.”
+- 0.600 P= 0%  Isaiah 45:12: I have made the earth, and created man on it. I, even my hands, have stretched out the heavens; and I have commanded all their army.
+- 0.593 P= 0%  Proverbs 3:19: By wisdom Yahweh founded the earth. By understanding, he established the heavens.
+
+## Blessed are the poor in spirit
+english: Blessed are the poor in spirit
+description: A Bible passage like Matthew 5:3 says that those who recognize their spiritual need and humility are blessed by God. It comforts the person that God values a humble heart and promises His favor.
+- 0.709 P=90%  Matthew 5:3-6: “Blessed are the poor in spirit, for theirs is the Kingdom of Heaven. Blessed are those who mourn, for they shall be comforted. Blessed are the gentle, for they shall inherit the earth. Blessed are those who hunger and thirst after righteousness,  for they shall be filled.
+- 0.617 P= 4%  Psalms 41:1: Blessed is he who considers the poor. Yahweh will deliver him in the day of evil.
+- 0.588 P= 2%  Proverbs 16:19: It is better to be of a lowly spirit with the poor, than to divide the plunder with the proud.
+- 0.574 P= 1%  Luke 6:20-23: He lifted up his eyes to his disciples, and said,  “Blessed are you who are poor, for yours is the Kingdom of God. Blessed are you who hunger now, for you will be filled. Blessed are you who weep now, for you will laugh. Blessed are you when men shall hate you, and when they shall exclude and mock you, and throw out your name as evil, for the Son of Man’s sake. Rejoice in that day, and leap for joy, for behold, your reward is great in heaven, for their fathers did the same thing to the prophets.
+- 0.573 P= 1%  James 2:5: Listen, my beloved brothers. Didn’t God choose those who are poor in this world to be rich in faith, and heirs of the Kingdom which he promised to those who love him?
+
+## I can do all things through Christ who strengthens me
+english: I can do all things through Christ who strengthens me
+description: This person is encouraged to trust in Christ’s strength to help them face whatever challenges come their way. A passage that addresses this is Philippians 4:13, reminding them they can do all things through Christ who empowers them.
+- 0.866 P=100%  Philippians 4:13: I can do all things through Christ, who strengthens me.
+- 0.620 P= 0%  2 Corinthians 12:9: He has said to me, “My grace is sufficient for you, for my power is made perfect in weakness.” Most gladly therefore I will rather glory in my weaknesses, that the power of Christ may rest on me.
+- 0.587 P= 0%  2 Corinthians 12:10: Therefore I take pleasure in weaknesses, in injuries, in necessities, in persecutions, in distresses, for Christ’s sake. For when I am weak, then am I strong.
+- 0.586 P= 0%  Psalms 18:31-32: For who is God, except Yahweh? Who is a rock, besides our God, the God who arms me with strength, and makes my way perfect?
+- 0.569 P= 0%  2 Corinthians 13:4: For he was crucified through weakness, yet he lives through the power of God. For we also are weak in him, but we will live with him through the power of God toward you.
+
+## äitini kuoli ja kaipaan lohtua
+english: My mother died and I miss her; I need comfort.
+description: A Bible passage can comfort you by reminding you that God is close to the brokenhearted and gives strength in grief. It can also point you to hope in God’s promises beyond death and encourages you to keep trusting Him.
+- 0.526 P=100%  Matthew 5:4: Blessed are those who mourn, for they shall be comforted.
+- 0.496 P= 0%  Isaiah 66:13: As one whom his mother comforts, so will I comfort you; and you will be comforted in Jerusalem.”
+- 0.474 P= 0%  Psalms 69:20: Reproach has broken my heart, and I am full of heaviness. I looked for some to take pity, but there was none; for comforters, but I found none.
+- 0.461 P= 0%  Ezekiel 19:10: Your mother was like a vine, in your blood, planted by the waters: it was fruitful and full of branches by reason of many waters.
+- 0.460 P= 0%  Lamentations 5:3: We are orphans and fatherless; Our mothers are as widows.
+
+## pelkään tulevaisuutta
+english: I am afraid of the future
+description: A Bible passage could say that God knows the future and can give strength and hope in uncertainty. It would encourage trusting Him and not fearing, because He is with you.
+- 0.588 P=23%  Psalms 56:11: I have put my trust in God. I will not be afraid. What can man do to me?
+- 0.581 P=18%  Psalms 119:74: Those who fear you will see me and be glad, because I have put my hope in your word.
+- 0.578 P=16%  Psalms 56:4: In God, I praise his word. In God, I put my trust. I will not be afraid. What can flesh do to me?
+- 0.560 P= 9%  Ecclesiastes 3:14: I know that whatever God does, it shall be forever. Nothing can be added to it, nor anything taken from it; and God has done it, that men should fear before him.
+- 0.553 P= 7%  Hebrews 13:6: So that with good courage we say,  “The Lord is my helper. I will not fear. What can man do to me?”
+
+## mitä kuoleman jälkeen tapahtuu
+english: what happens after death
+description: A Bible passage would offer hope beyond death, pointing to God’s power over life and death and the promise of resurrection. It also encourages trusting God for comfort in grief and facing death with hope.
+- 0.603 P=85%  Acts 24:14-15: But this I confess to you, that after the Way, which they call a sect, so I serve the God of our fathers, believing all things which are according to the law, and which are written in the prophets; having hope toward God, which these also themselves look for, that there will be a resurrection of the dead, both of the just and unjust.
+- 0.537 P= 9%  Job 27:8: For what is the hope of the godless, when he is cut off, when God takes away his life?
+- 0.523 P= 6%  Titus 1:1-4: Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God’s chosen ones, and the knowledge of the truth which is according to godliness, in hope of eternal life, which God, who can’t lie, promised before time began; but in his own time revealed his word in the message with which I was entrusted according to the commandment of God our Savior; to Titus, my true child according to a common faith: Grace, mercy, and peace from God the Father and the Lord Jesus Christ our Savior.
+- 0.512 P= 0%  Revelation 14:13: I heard the voice from heaven saying, “Write, ‘Blessed are the dead who die in the Lord from now on.’”   “Yes,” says the Spirit, “that they may rest from their labors; for their works follow with them.”
+- 0.496 P= 0%  Revelation 20:6: Blessed and holy is he who has part in the first resurrection. Over these, the second death has no power, but they will be priests of God and of Christ, and will reign with him one thousand years.
+
+## olen yksinäinen
+english: I am lonely
+description: A Bible passage would comfort you with God’s presence and care, assuring you that you are not alone. It may also encourage you to seek support and connection with others through community and prayer.
+- 0.528 P=100%  John 16:32: Behold, the time is coming, yes, and has now come, that you will be scattered, everyone to his own place, and you will leave me alone. Yet I am not alone, because the Father is with me.
+- 0.512 P= 0%  Psalms 42:5: Why are you in despair, my soul? Why are you disturbed within me? Hope in God! For I shall still praise him for the saving help of his presence.
+- 0.505 P= 0%  2 Corinthians 1:3-4: Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort; who comforts us in all our affliction, that we may be able to comfort those who are in any affliction, through the comfort with which we ourselves are comforted by God.
+- 0.505 P= 0%  Isaiah 49:21: Then you will say in your heart, ‘Who has conceived these for me, since I have been bereaved of my children, and am solitary, an exile, and wandering back and forth? Who has brought up these? Behold, I was left alone; these, where were they?’”
+- 0.503 P= 0%  Psalms 43:5: Why are you in despair, my soul? Why are you disturbed within me? Hope in God! For I shall still praise him: my Savior, my helper, and my God.
+
+## how do I bake sourdough bread
+english: how do I bake sourdough bread
+description: “The Lord will guide you always,” so take it step by step and don’t lose heart if it takes practice. Trust the process, because faithful effort and patience are rewarded.
+=> no suitable verse found
+(best was 0.476)
+
+## what is the best graphics card for gaming
+english: what is the best graphics card for gaming
+description: “Trust in the Lord with all your heart… and he will make your paths straight.” God’s wisdom can guide your decisions and help you focus on what truly matters. Seek good counsel and stewardship, and you’ll find peace in your choices.
+=> no suitable verse found
+(best was 0.454)
+
+## weather forecast for tomorrow in Helsinki
+english: weather forecast for tomorrow in Helsinki
+description: “Do not worry about tomorrow, for tomorrow will worry about itself.” Trust that God will provide what you need each day.
+- 0.565 P=52%  Proverbs 27:1: Don’t boast about tomorrow; for you don’t know what a day may bring.
+- 0.563 P=48%  Matthew 6:34: Therefore don’t be anxious for tomorrow, for tomorrow will be anxious for itself. Each day’s own evil is sufficient.
+- 0.462 P= 0%  Matthew 16:3: In the morning, ‘It will be foul weather today, for the sky is red and threatening.’ Hypocrites! You know how to discern the appearance of the sky, but you can’t discern the signs of the times!
+- 0.460 P= 0%  Exodus 8:10-11: He said, “Tomorrow.”   He said, “Be it according to your word, that you may know that there is no one like Yahweh our God. The frogs shall depart from you, and from your houses, and from your servants, and from your people. They shall remain in the river only.”
+- 0.430 P= 0%  Luke 12:29: Don’t seek what you will eat or what you will drink; neither be anxious.
